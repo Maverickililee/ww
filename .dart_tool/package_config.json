@@ -1,0 +1,286 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/_flutterfire_internals-1.3.63",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "async",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/async-2.13.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/boolean_selector-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/characters-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/clock-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "cloud_firestore",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/cloud_firestore-6.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "cloud_firestore_platform_interface",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/cloud_firestore_platform_interface-7.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "cloud_firestore_web",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/cloud_firestore_web-5.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/collection-1.19.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/cupertino_icons-1.0.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/fake_async-1.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "firebase_auth",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/firebase_auth-6.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/firebase_auth_platform_interface-8.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/firebase_auth_web-6.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/firebase_core-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/firebase_core_platform_interface-6.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/firebase_core_web-3.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///home/maverick/development/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "flutter_dotenv",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/flutter_dotenv-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/flutter_lints-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "flutter_screenutil",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/flutter_screenutil-5.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///home/maverick/development/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///home/maverick/development/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/http-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/http_parser-4.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "leak_tracker",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/leak_tracker-11.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/leak_tracker_flutter_testing-3.0.10",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/leak_tracker_testing-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/lints-6.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/matcher-0.12.17",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/material_color_utilities-0.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/path-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/plugin_platform_interface-2.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///home/maverick/development/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.8"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/source_span-1.10.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/stack_trace-1.12.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/stream_channel-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/string_scanner-1.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/term_glyph-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/test_api-0.7.6",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/typed_data-1.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/vector_math-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/vm_service-15.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///home/maverick/.pub-cache/hosted/mirrors.tuna.tsinghua.edu.cn%2547dart-pub%2547/web-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
+      "name": "hello_flutter",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.9"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.9.2",
+  "flutterRoot": "file:///home/maverick/development/flutter",
+  "flutterVersion": "3.35.6",
+  "pubCache": "file:///home/maverick/.pub-cache"
+}
